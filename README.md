@@ -18,5 +18,5 @@ Leveldb-dump.exe <directory to leveldb> <base file name>
 
 Leveldb_viewer.exe
 
-Under the File menu option choose open database.  Navigate to the directory that the levelDB data resides in and click opne to view the key value pairs.
+Under the File menu option choose open database.  Navigate to the directory that the levelDB data resides in and click open to view the key value pairs.
 
